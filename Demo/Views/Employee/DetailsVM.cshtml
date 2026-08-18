@@ -1,0 +1,14 @@
+﻿@model EmpWithMsgTempBranches
+
+<h1>Details View Model</h1>
+<h2>@Model.EmpName</h2>
+<h2>@Model.DeptName</h2>
+<h2>@Model.Msg</h2>
+<h2>@(Model.Temp+10)</h2>
+<select>
+    @foreach(var item in Model.Branches)
+    {
+        <option value="value">@item</option>
+
+    }
+</select>

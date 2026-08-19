@@ -1,20 +1,19 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Demo.Models;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Demo.Models
+namespace Demo.ViewModel
 {
-    public class Employee
+    public class EmpWithListDepartmentVM
     {
-        public int Id { get; set; }
-
-        [Display(Name ="Full Name")]
+        [Display(Name = "Full Name")]
         public string Name { get; set; }
         public decimal Salary { get; set; }
         public string ImageUrl { get; set; }
         public string Address { get; set; }
 
-        [ForeignKey(nameof(Department))]
         public int DepartmentId { get; set; }
-        public Department Department { get; set; }
+
+        public List<Department> Departments { get; set; }
     }
 }

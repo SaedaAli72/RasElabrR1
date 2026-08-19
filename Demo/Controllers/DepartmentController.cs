@@ -12,5 +12,23 @@ namespace Demo.Controllers
             List<Department> departmentFromModel = Context.departments.ToList();
             return View("Index",departmentFromModel);
         }
+        [HttpGet]
+        public IActionResult add()
+        {
+            return View("Add");
+        }
+        [HttpPost]
+        public IActionResult SaveAdd(Department DeptObjFromReq)
+        {
+            if(DeptObjFromReq.Name != null)
+            {
+                Context.departments.Add(DeptObjFromReq);
+                Context.SaveChanges();
+
+                return RedirectToAction("index");
+            }
+            return View("add",DeptObjFromReq);
+
+        }
     }
 }

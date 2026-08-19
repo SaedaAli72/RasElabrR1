@@ -8,9 +8,52 @@ namespace Demo.Controllers
     public class EmployeeController : Controller
     {
         ITIContext context = new ITIContext();
+       
+
+        public IActionResult index()
+        {
+            List<Employee> employees = context.Employees.Include(e=>e.Department).ToList();
+            return View("index", employees);
+        }
+
+        [HttpGet]
+        public IActionResult Add()
+        {
+            ViewData["DeptList"] = context.departments.ToList();
+            return View("Add");
+
+        }
+
+        [HttpPost]
+        public IActionResult SaveAdd(Employee EmpFromRequest)
+        {
+            if(EmpFromRequest.Name != null)
+            {
+                context.Employees.Add(EmpFromRequest);
+                context.SaveChanges();
+                return RedirectToAction("index");
+            }
+            ViewData["DeptList"] = context.departments.ToList();
+            return View("Add", EmpFromRequest);
+
+        }
+       
+
+
+
+
+
+
+
+
+
+
+
+
         string Msg = "Hello from Action";
         int Temp = 30;
         //employee/details?id=1
+
         public IActionResult Details(int id)
         {
            
@@ -64,9 +107,6 @@ namespace Demo.Controllers
 
 
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+       
     }
 }

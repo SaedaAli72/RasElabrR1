@@ -1,0 +1,24 @@
+﻿@model List<Employee>
+
+
+<a asp-action="add" asp-controller="Employee" class="btn btn-dark">New</a> 
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Salary</th>
+        <th>IamgeUrl</th>
+        <th>Address</th>
+        <th>Depertment</th>
+       
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Salary</td>
+            <td><img src="/images/@item.ImageUrl" alt="Alternate Text" style="width:80px" /></td>
+            <td>@item.Address</td>
+            <td>@item.Department.Name</td>
+        </tr>
+    }
+</table>

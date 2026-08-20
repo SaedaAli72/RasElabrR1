@@ -27,7 +27,7 @@ namespace Demo.Controllers
         [HttpPost]
         public IActionResult SaveAdd(Employee EmpFromRequest)
         {
-            if(EmpFromRequest.Name != null)
+            if(ModelState.IsValid)
             {
                 context.Employees.Add(EmpFromRequest);
                 context.SaveChanges();

@@ -5,24 +5,31 @@
 
 <form asp-action="SaveAdd" asp-controller="Employee" method="post">
 
+    <div asp-validation-summary="None"></div>
+
     <div>
         <label asp-for="Name"></label>
         <input asp-for="Name" class="form-control form" />
+        <span asp-validation-for="Name" class="text-danger"></span>
     </div>
 
      <div>
         <label asp-for="Address"></label>
         <input asp-for="Address" class="form-control form" />
+        <span asp-validation-for="Address" class="text-danger"></span>
     </div>
 
     <div>
         <label asp-for="ImageUrl"></label>
         <input asp-for="ImageUrl" class="form-control form" />
+        <span asp-validation-for="ImageUrl" class="text-danger"></span>
     </div>
 
     <div>
         <label asp-for="Salary"></label>
         <input asp-for="Salary" class="form-control form" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+
     </div>
 
     <div>
@@ -30,8 +37,18 @@
         <select asp-for=DepartmentId class="form-control form" asp-items="deptoptions">
            
         </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+
     </div>
 
     <input type="submit" value="Create" />
 
 </form>
+
+@section Scripts {
+    <script>console.log("Hello")</script>
+    
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+

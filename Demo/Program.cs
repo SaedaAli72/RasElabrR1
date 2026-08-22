@@ -1,3 +1,7 @@
+using Demo.Models;
+using Demo.Repository;
+using Microsoft.EntityFrameworkCore;
+
 namespace Demo
 {
     public class Program
@@ -8,6 +12,18 @@ namespace Demo
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSession(options=>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+            });
+            var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            builder.Services.AddDbContext<ITIContext>(options =>
+            options.UseSqlServer(ConnectionString)
+           );
+
+            builder.Services.AddScoped<IEmployeeRepository,EmployeeRepository>();
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+
 
             var app = builder.Build();
 
@@ -20,7 +36,11 @@ namespace Demo
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            app.UseSession();
+
+            app.UseAuthentication(); //login//register
+
+            app.UseAuthorization(); //manger//employee
 
             app.MapControllerRoute(
                 name: "default",

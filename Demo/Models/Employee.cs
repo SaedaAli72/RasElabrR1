@@ -9,6 +9,7 @@ namespace Demo.Models
 
         [MinLength(2)]
         [MaxLength(25)]
+        [Required]
 
         [Display(Name ="Full Name")]
         [Unique]

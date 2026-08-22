@@ -3,80 +3,72 @@
   "WorkspaceRootPath": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\migrations\\20260820080814_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\migrations\\20260820080814_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\viewmodel\\empwithlistdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\empwithlistdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\controllers\\bindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\bindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\viewmodel\\empwithmsgtempbranches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\empwithmsgtempbranches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|f:\\summer trainee mvc\\ras ebar r1\\demo\\demo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08C7569-69B1-4FE3-A344-04C0D294CB31}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,27 +98,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T08:55:44.289Z"
+              "WhenOpened": "2026-08-22T10:54:13.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\_ViewImports.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Demo\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T08:55:40.963Z"
+              "WhenOpened": "2026-08-22T09:51:40.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T09:51:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Employee.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\Employee.cs",
+              "RelativeToolTip": "Demo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:57:43.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -136,202 +153,153 @@
               "RelativeDocumentMoniker": "Demo\\Models\\UniqueAttribute.cs",
               "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\UniqueAttribute.cs",
               "RelativeToolTip": "Demo\\Models\\UniqueAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T08:41:03.99Z"
+              "WhenOpened": "2026-08-22T08:57:16.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T06:44:27.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Demo\\Models\\Employee.cs",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\Employee.cs",
-              "RelativeToolTip": "Demo\\Models\\Employee.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T09:12:01.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Employee\\Add.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Employee\\Add.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Employee\\Add.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Employee\\Add.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T09:17:23.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout1.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout1.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_Layout1.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\_Layout1.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Shared\\_Layout1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T06:46:45.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Department\\Index.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T07:45:22.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\_ViewStart.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Demo\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T06:53:08.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20260820080814_edit.cs",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Migrations\\20260820080814_edit.cs",
-              "RelativeDocumentMoniker": "Demo\\Migrations\\20260820080814_edit.cs",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Migrations\\20260820080814_edit.cs",
-              "RelativeToolTip": "Demo\\Migrations\\20260820080814_edit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T08:08:15.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Demo\\Controllers\\EmployeeController.cs",
               "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Demo\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T06:42:06.369Z"
+              "WhenOpened": "2026-08-22T07:18:27.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T09:10:44.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmpWithListDepartmentVM.cs",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\ViewModel\\EmpWithListDepartmentVM.cs",
-              "RelativeDocumentMoniker": "Demo\\ViewModel\\EmpWithListDepartmentVM.cs",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\ViewModel\\EmpWithListDepartmentVM.cs",
-              "RelativeToolTip": "Demo\\ViewModel\\EmpWithListDepartmentVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T09:56:31.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Demo\\Controllers\\DepartmentController.cs",
               "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "Demo\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T07:00:19.043Z"
+              "WhenOpened": "2026-08-22T07:28:21.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\IDepartmentRepository.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:18:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:18:26.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
               "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Program.cs",
               "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T09:47:31.75Z"
+              "WhenOpened": "2026-08-22T06:29:05.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmpWithMsgTempBranches.cs",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\ViewModel\\EmpWithMsgTempBranches.cs",
-              "RelativeDocumentMoniker": "Demo\\ViewModel\\EmpWithMsgTempBranches.cs",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\ViewModel\\EmpWithMsgTempBranches.cs",
-              "RelativeToolTip": "Demo\\ViewModel\\EmpWithMsgTempBranches.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T06:43:01.433Z"
+              "WhenOpened": "2026-08-22T07:22:14.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BindController.cs",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\BindController.cs",
-              "RelativeDocumentMoniker": "Demo\\Controllers\\BindController.cs",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\BindController.cs",
-              "RelativeToolTip": "Demo\\Controllers\\BindController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwBwAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T06:55:39.556Z"
+              "WhenOpened": "2026-08-22T07:22:16.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Department\\Add.cshtml",
-              "RelativeDocumentMoniker": "Demo\\Views\\Department\\Add.cshtml",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Department\\Add.cshtml",
-              "RelativeToolTip": "Demo\\Views\\Department\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T07:49:17.533Z"
+              "DocumentIndex": 12,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\ITIContext.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\ITIContext.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\ITIContext.cs",
+              "RelativeToolTip": "Demo\\Models\\ITIContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T06:08:22.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo\\appsettings.json",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\appsettings.json",
+              "RelativeToolTip": "Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T08:31:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Test.cs",
+              "RelativeDocumentMoniker": "Demo\\Test.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Test.cs",
+              "RelativeToolTip": "Demo\\Test.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T07:35:45.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Department.cs",
-              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Demo\\Models\\Department.cs",
-              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Models\\Department.cs",
-              "RelativeToolTip": "Demo\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Title": "StateController.cs",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\StateController.cs",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\StateController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T07:51:20.36Z"
+              "WhenOpened": "2026-08-22T06:55:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\Summer Trainee MVC\\Ras Ebar R1\\Demo\\Demo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T06:46:27.104Z"
             }
           ]
         }

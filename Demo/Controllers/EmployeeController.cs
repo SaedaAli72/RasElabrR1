@@ -1,4 +1,5 @@
 ﻿using Demo.Models;
+using Demo.Repository;
 using Demo.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -7,19 +8,26 @@ namespace Demo.Controllers
 {
     public class EmployeeController : Controller
     {
-        ITIContext context = new ITIContext();
-       
+        private readonly IEmployeeRepository EmpRepo;
+        private readonly IDepartmentRepository deptrepo;
+
+        public EmployeeController(IEmployeeRepository EmpRepo,IDepartmentRepository Deptrepo)
+        {
+            this.EmpRepo = EmpRepo;
+            deptrepo = Deptrepo;
+        }
+
 
         public IActionResult index()
         {
-            List<Employee> employees = context.Employees.Include(e=>e.Department).ToList();
+            List<Employee> employees = EmpRepo.GetAll();
             return View("index", employees);
         }
 
         [HttpGet]
         public IActionResult Add()
         {
-            ViewData["DeptList"] = context.departments.ToList();
+            ViewData["DeptList"] = deptrepo.GetAll();
             return View("Add");
 
         }
@@ -29,11 +37,11 @@ namespace Demo.Controllers
         {
             if(ModelState.IsValid)
             {
-                context.Employees.Add(EmpFromRequest);
-                context.SaveChanges();
+                EmpRepo.Add(EmpFromRequest);
+                EmpRepo.Save();
                 return RedirectToAction("index");
             }
-            ViewData["DeptList"] = context.departments.ToList();
+            ViewData["DeptList"] = deptrepo.GetAll();
             return View("Add", EmpFromRequest);
 
         }
@@ -52,6 +60,8 @@ namespace Demo.Controllers
 
         string Msg = "Hello from Action";
         int Temp = 30;
+        private readonly ITIContext context;
+
         //employee/details?id=1
 
         public IActionResult Details(int id)

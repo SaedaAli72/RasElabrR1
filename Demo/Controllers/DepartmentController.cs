@@ -1,4 +1,5 @@
 ﻿using Demo.Models;
+using Demo.Repository;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -6,10 +7,17 @@ namespace Demo.Controllers
 {
     public class DepartmentController : Controller
     {
-        ITIContext Context = new ITIContext();
+        private readonly IDepartmentRepository DeptRepo;
+
+        //DepartmentRepository DeptRepo = new DepartmentRepository();
+
+        public DepartmentController(IDepartmentRepository department)
+        {
+            this.DeptRepo = department;
+        }
         public IActionResult Index()
         {
-            List<Department> departmentFromModel = Context.departments.ToList();
+            List<Department> departmentFromModel =DeptRepo.GetAll();
             return View("Index",departmentFromModel);
         }
         [HttpGet]
@@ -22,8 +30,8 @@ namespace Demo.Controllers
         {
             if(DeptObjFromReq.Name != null)
             {
-                Context.departments.Add(DeptObjFromReq);
-                Context.SaveChanges();
+                DeptRepo.Add(DeptObjFromReq);
+                DeptRepo.Save();
 
                 return RedirectToAction("index");
             }
